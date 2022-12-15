@@ -18,3 +18,4 @@ Matplotlib
 "pip install opencv-python"
 
 "pip install easyocr"
+ watch demo of this project here: [demo vidoe](https://github.com/krishna-amal/Real-time-OCR/blob/f50918ca9bc260bcd6cf5ab7af3345f752a800d6/WhatsApp%20Video%202022-12-15%20at%2012.56.24%20PM.mp4)
